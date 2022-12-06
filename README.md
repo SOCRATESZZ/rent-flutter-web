@@ -1,16 +1,14 @@
 # rent
 
-A new Flutter project.
+Home Page
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/86411507/205808525-1b8238b4-f244-44ea-aecc-864edabe9c02.png)
 
-This project is a starting point for a Flutter application.
+Filters
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/86411507/205808621-3e1d2ec8-01a8-4f5d-97a4-a6cc8b2e25a1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/86411507/205808671-e891686f-7b86-4199-9fdc-fb382186c189.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/86411507/205808721-88783b36-d2cf-4995-8fa2-174bfccae35f.png)
+
